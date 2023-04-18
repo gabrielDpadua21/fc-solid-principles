@@ -3,7 +3,7 @@
 This project contains code exemples of solid principles using the language typescript
 
 - [x] Simple Resposibility Principle (SRP)
-- [ ] Open/Closed Principle (OCP)
+- [x] Open/Closed Principle (OCP)
 - [ ] Liskov Substitution Principle (LSP)
 - [ ] Interface Segregation Principle (ISP)
 - [ ] Dependency Inversion Principle (DIP)

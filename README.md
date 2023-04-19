@@ -5,7 +5,7 @@ This project contains code exemples of solid principles using the language types
 - [x] Simple Resposibility Principle (SRP)
 - [x] Open/Closed Principle (OCP)
 - [x] Liskov Substitution Principle (LSP)
-- [ ] Interface Segregation Principle (ISP)
+- [x] Interface Segregation Principle (ISP)
 - [ ] Dependency Inversion Principle (DIP)
 
 ---
